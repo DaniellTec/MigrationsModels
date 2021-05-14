@@ -1,0 +1,8 @@
+Actividades NM con elemento
+Multimedia NMcon elemento
+Contenido NM con elemento
+Elemento 1n con modulo
+Modulo NM con Usuarios
+Usuario 1n con profesor
+Usuario 1n con alumno
+Alumno 11 con suscripcion 
